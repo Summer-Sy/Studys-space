@@ -1,6 +1,6 @@
 注意：
 ====
-    1.mysql版本为Community Server 5.7.29.
+    1.mysql版本为Community Server 5.7.29
     
     2.codeblocks版本：17.12.
     
