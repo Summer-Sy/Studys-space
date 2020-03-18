@@ -12,4 +12,4 @@
     （3）参考博客: https://blog.csdn.net/Summer__show_/article/details/80748196
                   https://blog.csdn.net/qinglingLS/article/details/89013714
     
-    5.若始终无法解决，请发邮件至836602482@qq.com
+    5.若始终无法解决，请发邮件至836602482@qq.com.
