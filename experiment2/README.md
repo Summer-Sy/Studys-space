@@ -2,7 +2,7 @@
 ====
     1.mysql版本为Community Server 5.7.29
     
-    2.codeblocks版本：17.12.
+    2.codeblocks版本：17.12
     
     3.代码均由C语言编写
     
